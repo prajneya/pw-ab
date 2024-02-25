@@ -1,13 +1,13 @@
 ---
 date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+title: 'Content Writing Intern'
+company: 'The Legal Watch'
+location: 'New Delhi, India'
+range: 'January 2021 - February 2021'
+url: 'https://www.thelegalwatch.in/'
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+- Authored comprehensive research articles and blogs covering various aspects of the Indian contract law.
+- Utilized WordPress CMS to create, edit, and manage content, ensuring timely publication and accessibility to a
+wider audience.
+- Developed a user-friendly content structure, improving navigation and accessibility for readers seeking legal insights.

@@ -7,10 +7,6 @@ module.exports = {
       url: 'https://www.instagram.com/anushreebelwariar',
     },
     {
-      name: 'Facebook',
-      url: 'https://www.facebook.com/anushree.belwariar',
-    },
-    {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/anushree-belwariar-468057189/',
     },

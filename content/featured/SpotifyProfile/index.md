@@ -1,9 +1,8 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Blog Post: Contract Farming and the Contract Law'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+external: 'https://www.thelegalwatch.in/post/contract-farming-and-the-contract-law'
 tech:
   - React
   - Styled Components
@@ -12,4 +11,4 @@ tech:
   - Heroku
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Researched and analyzed legal implications and challenges within contract farming agreements, providing valuable insights. Utilized WordPress CMS for content creation, ensuring a user-friendly layout and seamless navigation.

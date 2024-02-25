@@ -1,13 +1,12 @@
 ---
 date: '2018-05-14'
-title: 'Lead Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+title: 'Content Writing Intern'
+company: 'Inkxpert Incorporation'
+location: 'Remote, WFH'
+range: 'January 2023 - March 2023'
+url: 'https://www.google.com/'
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
-- Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship
+- Wrote engaging and SEO-Optimized blogs pertaining to travel articles, to-do lists, and website content.
+- Conducted thorough editing and proofreading of articles, ensuring grammatical accuracy, coherence, and adherence to style guidelines.
+- Conducted thorough keyword research using Google Keyword Planner and implemented SEO strategies to optimize client’s on-page content.

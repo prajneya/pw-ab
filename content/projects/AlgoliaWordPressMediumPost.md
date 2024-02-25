@@ -1,14 +1,14 @@
 ---
 date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
+title: 'Print Invite and Posters'
 github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+external: ''
 tech:
   - Algolia
   - WordPress
   - PHP
-company: 'Upstatement'
+company: 'Symbiosis Law School, Hyderabad'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Created print invites and posters for events held by Center for Differently Abled, Symbiosis Law School, Hyderabad which was attened by 150+ individuals between 2020 to 2022
