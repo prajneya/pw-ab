@@ -1,12 +1,13 @@
 ---
 date: '2016-08-01'
-title: 'React Profile'
-github: 'https://github.com/bchiang7/react-profile'
-external: 'https://bchiang7.github.io/react-profile/'
+title: 'Legal Article'
+github: ''
+external: '/ibbi'
 tech:
-  - React
-  - CSS
+  - IBBI
+  - CIRP
+  - IBC
 showInProjects: true
 ---
 
-Online version of my 2016 resume made for fun. I was interested in learning React.js, so I found a simple tutorial and it spun into a weekend project.
+Authored a legal article regarding the amendments introduced by the Insolvency and Bankruptcy Board of India (IBBI) on September 18, 2023. Focused on the Corporate Insolvency Resolution Process (CIRP). 

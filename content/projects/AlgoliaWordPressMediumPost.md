@@ -1,12 +1,12 @@
 ---
-date: '2020-03-27'
+date: '2015-12-18'
 title: 'Print Invite and Posters'
 github: ''
 external: ''
 tech:
-  - Algolia
-  - WordPress
-  - PHP
+  - Event
+  - Design
+  - Custom Cards
 company: 'Symbiosis Law School, Hyderabad'
 showInProjects: true
 ---

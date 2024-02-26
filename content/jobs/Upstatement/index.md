@@ -4,7 +4,7 @@ title: 'Content Writing Intern'
 company: 'Inkxpert Incorporation'
 location: 'Remote, WFH'
 range: 'January 2023 - March 2023'
-url: 'https://www.google.com/'
+url: ''
 ---
 
 - Wrote engaging and SEO-Optimized blogs pertaining to travel articles, to-do lists, and website content.

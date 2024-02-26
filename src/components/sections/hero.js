@@ -60,13 +60,14 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Anushree Belwariar.</h2>;
+  const two = <h2 className="big-heading">Anushree Belwariar,</h2>;
   const three = <h3 className="big-heading">I craft and perfect narratives.</h3>;
   const four = (
     <>
       <p>
-        I’m a highly motivated and creative content writer and editor with a passion for digital content creation, journalism, copywriting, and publishing. Currently enhancing my expertise while exploring the realms of SEO and user engagement, I thrive on solving the puzzle of connecting with audiences through compelling storytelling and insightful content.
-      </p>
+        I am a content writer and editor with a knack for creativity, engaging storytelling, research and purposeful writing. Constantly exploring new subjects, I embrace the research journey, bringing fresh ideas to life. I enjoy the freedom to engage with readers, building a community around shared interests. 
+      
+      If you're seeking a content writer who can breathe life into ideas, engage audiences, and elevate your brand, let's connect!</p>
     </>
   );
   const five = (
@@ -74,7 +75,7 @@ const Hero = () => {
       className="email-link"
       href="/#projects"
       rel="noreferrer">
-      Read my Blog!
+      See my Projects!
     </a>
   );
 

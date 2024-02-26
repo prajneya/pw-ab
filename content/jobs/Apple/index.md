@@ -8,6 +8,5 @@ url: 'https://www.thelegalwatch.in/'
 ---
 
 - Authored comprehensive research articles and blogs covering various aspects of the Indian contract law.
-- Utilized WordPress CMS to create, edit, and manage content, ensuring timely publication and accessibility to a
-wider audience.
+- Utilized WordPress CMS to create, edit, and manage content, ensuring timely publication and accessibility to a wider audience.
 - Developed a user-friendly content structure, improving navigation and accessibility for readers seeking legal insights.

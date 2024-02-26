@@ -55,13 +55,13 @@ const Contact = () => {
 
   return (
     <StyledContactSection id="contact" ref={revealContainer}>
-      <h2 className="numbered-heading overline">What’s Next?</h2>
+      <h2 className="numbered-heading overline">Contact</h2>
 
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        Although I’m not currently looking for any new opportunities, my inbox is always open.
-        Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+      Thanks for exploring my little corner of the internet! If you've got questions, ideas, or just want to say hi, I'd love to hear from you. Feel free to drop me an email at <b>anushreebelwariar &lt; at the rate of &gt; gmail &lt; dot &gt; com</b>. Whether it's a collaboration, a friendly chat, or you just want to share your favorite book recommendations, I'm all ears!
+
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>

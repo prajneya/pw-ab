@@ -1,14 +1,14 @@
 ---
 date: '2020-01-10'
-title: 'Social Media Manager'
-github: ''
-external: ''
+title: 'Press Release Article'
+external: '/qiso'
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Firebase
-company: ''
+  - Marketplace
+  - Semiconductor
+  - EV
+  - Automation
+company: 'QISO'
 showInProjects: true
 ---
 
-Managed and produced content for the Instagram handle of Syminaret, annual college fest organized by Symbiosis Law School, Hyderabad for the year 2020.
+Wrote a press release article for QISO, formerly HatchnHack, which is a New Delhi-based B2B marketplace for electronic components, rebranded to support India's technological growth. 

@@ -82,7 +82,6 @@ const StyledPic = styled.div`
       position: relative;
       border-radius: var(--border-radius);
       mix-blend-mode: multiply;
-      filter: grayscale(100%) contrast(1);
       transition: var(--transition);
     }
 
@@ -125,7 +124,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Content Writing and Storytelling', 'SEO and Analytics', 'Editing and Proofreading', 'Content Management Systems (CMS)', 'Audience Engagement and User Experience', 'WordPress'];
+  const skills = ['Search Engine Optimization (SEO)', 'Web Content Writing', 'Creative Writing', 'Blogging', 'Content Management Systems (CMS)', 'Editing and proofreading', 'Product Descriptions', 'Research ', 'Content Management Systems (CMS)', 'Legal Research and Drafting'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,24 +134,11 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Anushree Belwariar and I revel in crafting stories that captivate the digital world. My fascination with writing began during my school years, when I started a blog to share my thoughts on everything from books to societal trends — it was then I discovered the power of words and how they can shape perceptions and evoke emotions.
+            Hello, my name is Anushree Belwariar and I am a lawyer and a content writer who transforms ideas into compelling narratives. I leverage my legal background to distill complex concepts into engaging and accessible content. Over four years in the field of writing, I have honed my skills in creating long format written content that is engaging and reader friendly. But my journey of content writing is rooted in books. As an avid reader and self-proclaimed bookworm, I've always found solace and inspiration between the pages of a good story.  
             </p>
 
             <p>
-            Fast-forward to today, and I’ve had the honor of contributing to various digital content platforms, engaging in journalism, copywriting, and publishing. My current focus is on enhancing user experience through content that is not only engaging but also SEO-optimized, ensuring that the stories I tell reach the right audience at the right time.
-            <br/>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
-            </p>
-
-            <p>
-            I also recently embarked on a journey to deepen my understanding of digital marketing, learning how to leverage analytics to refine content strategies and improve engagement.
+            Fast-forward to today, and I’ve had the honor of contributing to various digital content platforms, engaging in website content writing, blogging, social media platforms, product descriptions, research and publishing. I have worked with creative writing agencies on brand stories and creating website content. On gaming platforms I crafted narratives, dialogues and rules for the games. As a freelance writer who has collaborated with start-ups, I produced original website content that aligns with the vision of the company and its clientele. The diverse projects I have worked on over the years has made my approach holistic towards content creation by strategically blending creativity with storytelling in long form content. 
             </p>
 
             <p>Here are a few skills and areas I’ve been immersing myself in recently:</p>
@@ -162,7 +148,6 @@ const About = () => {
             {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
           </ul>
 
-          <p>Every piece of content is a new adventure, and I am committed to making each narrative not just seen, but felt and remembered.</p>
         </StyledText>
 
         <StyledPic>
