@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I am a content writer and editor with a knack for creativity, engaging storytelling, research and purposeful writing. Constantly exploring new subjects, I embrace the research journey, bringing fresh ideas to life. I enjoy the freedom to engage with readers, building a community around shared interests. 
+        I am a content writer and editor with a knack for creativity, engaging storytelling, research and purposeful writing. I embrace the research journey, bringing fresh ideas to life. I enjoy the freedom to engage with readers, building a community around shared interests. 
       
       If you're seeking a content writer who can breathe life into ideas, engage audiences, and elevate your brand, let's connect!</p>
     </>
